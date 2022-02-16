@@ -1,0 +1,11 @@
+@import url(../two-colums/two-colums.css);
+
+.description {
+  display: flex;
+  justify-content: center;
+  margin: 100px 0 0 0;
+}
+
+.span-assent {
+  font-weight: bold;
+}

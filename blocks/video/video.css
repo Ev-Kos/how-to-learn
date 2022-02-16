@@ -1,0 +1,22 @@
+.video {
+  width: 80%;
+  margin: 40px auto 0;
+  position: relative;
+  top: 60px;
+  z-index: 1;
+}
+
+.video__iframes {
+  width: 1050px;
+  margin: 50px auto 0;
+  display: flex;
+}
+
+.video__iframe {
+  width: 515px;
+  height: 316px;
+}
+
+.video__iframe:nth-of-type(2n) {
+  margin-left: 20px;
+}
