@@ -1,0 +1,24 @@
+.video {
+  width: 80%;
+  border: 1px dotted red;
+  margin: 40px auto 0;
+  position: relative;
+  top: 60px;
+  z-index: 1;
+}
+
+.video__iframes {
+  margin: 50px auto 0;
+  border: 1px solid rgb(119, 0, 255);
+  display: flex;
+}
+
+.video__iframe {
+  width: 515px;
+  height: 316px;
+  border: 1px solid red;
+}
+
+.video__iframe:nth-of-type(2n) {
+  margin:0 0 0 20px;
+}
