@@ -4,8 +4,8 @@
   font-weight: normal;
   color: white;
   text-decoration: none;
-  margin: 0;
-  position: relative;
+  display: flex;
+  margin: 0 0 10px 0;
 }
 
 .footer__column-link:hover {
