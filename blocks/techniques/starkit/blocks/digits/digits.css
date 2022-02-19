@@ -1,9 +1,0 @@
-@import url(../section-title/section-title.css);
-@import url(../section-subtitle/section-subtitle.css);
-@import url(../table/table.css);
-
-.digits {
-  border: 1px dotted red;
-  margin: 100px auto 0;
-  width: 80%;
-}

@@ -7,11 +7,6 @@
   margin: 0;
 }
 
-li:nth-of-type(2n) {
-  margin: 10px 0 10px 0;
-}
-
-
 .footer__column-link:hover {
   opacity: 0.5;
 }

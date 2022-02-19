@@ -1,6 +1,6 @@
 .feynman__link {
   position: absolute;
-  top: 445px;
+  top: 490px;
   right: 48px;
   line-height: 51px;
   font-size: 36px;
@@ -11,5 +11,4 @@
 
 .feynman__link:hover {
   opacity: 0.5;
-  transform: scale(1.2);
 }
